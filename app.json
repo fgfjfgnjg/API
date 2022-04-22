@@ -6,7 +6,7 @@
     "discord bots",
     "dbots"
   ],
-  "repository": "https://github.com/DBots-co/API",
+  "repository": "https://github.com/ManLoJe",
   "env": {
     "API_URL": {
       "description": "Same as DASHBOARD_URL, but with /api/v1 at the end.",
